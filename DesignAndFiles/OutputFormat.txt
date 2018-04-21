@@ -1,0 +1,4 @@
+1. DisplayTemp: integer {68, ... 105}
+2. AlarmStatus: boolean {On, Off}
+3. ThermostatStatus: enum { Init, On, Failed}
+4. TimeStamp: time { }

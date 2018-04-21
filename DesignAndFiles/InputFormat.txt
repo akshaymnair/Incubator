@@ -1,0 +1,5 @@
+1. IsoletteStatus = {On,Off}
+2. LowerDesiredTemperature = integer {97, ... 99}
+3. UpperDesiredTemperature = integer {98, ... 100}
+4. LowerAlarmTemperature = integer {93, ... 98}
+5. UpperAlarmTemperature = integer {99, ... 103}

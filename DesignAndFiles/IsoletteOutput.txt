@@ -1,0 +1,85 @@
+--------------------------------------------------------
+Display Temperature: 99'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:04:47
+--------------------------------------------------------
+Display Temperature: 99'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:04:53
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:04:59
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:05:05
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:05:11
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:05:17
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:05:23
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:05:29
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:05:35
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:05:41
+--------------------------------------------------------
+Display Temperature: 99'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:09:03
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:09:09
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:09:15
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:09:21
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:09:27
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:09:33
+--------------------------------------------------------
+Display Temperature: 100'F
+Alarm Status: 		 OFF
+Thermostat Status: 	 ON
+Timestamp: 			 21/04/2018 13:09:39
